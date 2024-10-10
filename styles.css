@@ -95,3 +95,41 @@ h1 {
 .caption a:hover {
     text-decoration: underline;
 }
+
+.film{
+    padding-bottom: 1em;
+    text-align: center;
+}
+
+.film .caption2{
+    font-size: 1.4em;
+    font-weight: normal;
+}
+
+.myPhoto{
+    padding-top: 4em;
+    text-align: right;
+}
+
+.myPhoto img{
+    border-radius: 2px;
+}
+
+.myText{
+    padding-top: 3em;
+}
+
+.myText h2 {
+    font-weight: normal;
+    font-size: 1.5em;
+    text-align: justify;
+}
+
+/* .sideCaption{
+    padding-left: 2em;
+}
+
+.sideCapText{
+    font-weight: normal;
+    font-size: 2.5em;
+} */

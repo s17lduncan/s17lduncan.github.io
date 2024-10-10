@@ -39,6 +39,7 @@ body{
 .line1{
     border: 3px dashed;
     width: 100%;
+    color:white;
 }
 
 .box{
@@ -56,6 +57,7 @@ h1 {
     text-align: left;
     font-size: 3em;
     font-weight: bold;
+    color: white;
 }
 
 .subLine {
@@ -70,4 +72,26 @@ h1 {
     font-size: 1.4em;
     font-weight: lighter;
     color:rgb(231, 232, 231);
+}
+
+.dBox{
+    padding: 2em;
+    padding-top: 1em;
+    padding-left: 0em;
+}
+
+.caption{
+    text-align: center;
+}
+
+.caption a{
+    text-align: center;
+    font-size: 1.4em;
+    font-weight: normal;
+    color: white;
+    text-decoration: none;
+}
+
+.caption a:hover {
+    text-decoration: underline;
 }

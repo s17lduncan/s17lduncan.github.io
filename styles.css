@@ -6,7 +6,7 @@ body{
 
 .header .pure-menu{
     padding-top: 2em;
-    font-size: 1.4em;
+    font-size: 2vw;
 }
 
 .pure-menu-link, body
@@ -31,13 +31,8 @@ body{
     color:rgb(170, 198, 175)
 }
 
-.vl{
-    border-left: 6px solid green;
-    height: 500px;
-}
-
 .line1{
-    border: 3px dashed;
+    border: 0.15em dashed;
     width: 100%;
     color:white;
 }
@@ -122,15 +117,14 @@ h1 {
 
 .myText h2 {
     font-weight: normal;
-    font-size: 1.5em;
+    font-size: 1.75vw;
     text-align: left;
 }
 
-/* .sideCaption{
-    padding-left: 2em;
+.aCaption {
+    font-weight: normal;
+    font-size: 1.2em;
+    text-align: center;
+    padding-right: 4em;
 }
 
-.sideCapText{
-    font-weight: normal;
-    font-size: 2.5em;
-} */

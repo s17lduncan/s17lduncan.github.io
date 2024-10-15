@@ -6,7 +6,7 @@ body{
 
 .header .pure-menu{
     padding-top: 2em;
-    font-size: 2vw;
+    font-size: calc(10px + 1.4vw);
 }
 
 .pure-menu-link, body
@@ -117,7 +117,7 @@ h1 {
 
 .myText h2 {
     font-weight: normal;
-    font-size: 1.75vw;
+    font-size: 1.5em;
     text-align: left;
 }
 
@@ -131,5 +131,30 @@ h1 {
 .academicTitle {
     font-size: 2em;
     padding-top: 1em;
+}
+
+.aText {
+    font-weight: normal;
+    font-size: calc(0.65em + 0.75vw);
+    word-spacing: 0.2em;
+    text-align: left;
+    padding-right: 2em;
+}
+
+.aImg {
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.aImg:hover {
+    opacity: 80%;
+}
+
+.aText2 {
+    font-weight: normal;
+    font-size: calc(0.8em + 0.75vw);
+    word-spacing: 0.2em;
+    text-align: left;
+    padding-left: 2em;
 }
 

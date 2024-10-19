@@ -147,7 +147,7 @@ h1 {
 }
 
 .aImg:hover {
-    opacity: 80%;
+    opacity: 70%;
 }
 
 .aText2 {
@@ -156,5 +156,40 @@ h1 {
     word-spacing: 0.2em;
     text-align: left;
     padding-left: 2em;
+}
+
+.link {
+    color: rgb(170, 198, 175)
+}
+
+.container {
+    background-color: rgb(53, 61, 54);
+    height: 35vw;
+    width: 28vw;
+    text-align: center;
+}
+
+.tech {
+    padding-top: 1.5vw;
+    padding-left: 2.5vw;
+    width: 22.917vw;
+    height: 20.833vw;
+}
+
+.tech:hover {
+    opacity: 70%;
+}
+
+.techC {
+    padding-left: 0.5;
+    padding-right: 0.5;
+}
+
+.tText {
+    text-align: left;
+    padding-left: 3vw;
+    padding-right: 3vw;
+    font-weight: normal;
+    font-size: 1.3vw;
 }
 

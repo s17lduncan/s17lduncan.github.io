@@ -1,0 +1,1 @@
+let gImage = document.getElementsByClassName("box");

@@ -193,3 +193,8 @@ h1 {
     font-size: 1.3vw;
 }
 
+.modal {
+    background-color: rgba(0,0,0,0);
+    outline: 0;
+  }
+

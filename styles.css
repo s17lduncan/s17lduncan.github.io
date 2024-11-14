@@ -103,11 +103,11 @@ h1 {
 
 .myPhoto {
     padding-top: 4em;
+    float: right;
 }
 
 .myPhoto .pure-img{
     border-radius: 2px;
-    float: right;
 }
 
 .myText{
@@ -183,6 +183,7 @@ h1 {
 .techC {
     padding-left: 0.5;
     padding-right: 0.5;
+    padding-bottom: 3em;
 }
 
 .tText {
@@ -215,4 +216,22 @@ h1 {
     background-color: rgba(0, 0, 0, 0.7);
     z-index: 1;
   }
+
+.socialMedia {
+    font-size: calc(40px + 1.4vw);
+    color: white;
+    padding: 0.1em;
+}
+
+.socialMedia:hover {
+    color: rgb(170, 198, 175)
+}
+
+.links {
+    display: block;
+    text-align: center;
+    padding-top: 1em;
+}
+
+
 

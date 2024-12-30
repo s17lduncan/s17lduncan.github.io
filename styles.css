@@ -116,9 +116,13 @@ h1 {
 }
 
 .myText h2 {
-    font-weight: normal;
-    font-size: 1.5em;
+    font-weight: lighter;
+    font-size: 1.3em;
     text-align: left;
+}
+
+.indexLink {
+    color:rgb(170, 198, 175);
 }
 
 .aCaption {
@@ -195,8 +199,8 @@ h1 {
 }
 
 .enlargedImage {
-    width: 30%;
-    height: 30%;
+    width: 50%;
+    height: 50%;
     display: block;
     margin: auto;
     position: absolute;
